@@ -1,6 +1,8 @@
 # RecyclerViewTest
 这个项目是网易云课堂课程《Android控件之RecyclerView》的源码
 
+![](https://github.com/TrillGates/RecyclerViewTest/blob/master/6632160680259649418.jpg)
+
 ###课程地址在网易云课堂里头
 
 收费课程：
